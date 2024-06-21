@@ -32,7 +32,8 @@ CLI - Command Line Interface<br />
 EBS - Elastic Block Store<br />
 EC2 - Elastic Compute Cloud or Infrastructure as a Service<br />
 EFS - Elastic File System<br />
-EFS-IA - Elastic File System Infrequent Access
+EFS-IA - Elastic File System Infrequent Access<br />
+FSx - File Systems x or any backup, Windows or Lusture<br />
 FTP - File Transfer Protocol<br />
 IAM - Identity & Access Management<br />
 IOPS - Input/Output Operations per Second<br />
