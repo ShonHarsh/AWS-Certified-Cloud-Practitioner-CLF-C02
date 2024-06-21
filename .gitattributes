@@ -1,0 +1,51 @@
+# Automatically normalize line endings for text files
+* text=auto
+
+# Binary Files - Denotes binary files to prevent line ending and encoding modifications
+# Binary Archive
+*.7z
+*.br
+*.bz2
+*.gz
+*.rar
+*.tar
+*.xz
+*.zip
+
+# Binary Audio
+*.mp3
+*.ogg
+*.wav
+
+# Binary Document
+*.doc
+*.docx
+*.pdf
+*.ppt
+*.pptx
+*.xls
+*.xlsx
+
+# Binary Executable/Library
+*.dll
+*.exe
+*.lib
+*.so
+
+# Binary Image
+*.bmp
+*.gif
+*.ico
+*.jpeg
+*.jpg
+*.png
+*.svg
+*.tif
+*.tiff
+
+# Binary Video
+*.avi
+*.flv
+*.mov
+*.mp4
+*.wmv

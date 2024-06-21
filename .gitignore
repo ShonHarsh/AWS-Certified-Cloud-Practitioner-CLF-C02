@@ -1,0 +1,22 @@
+# Created by https://www.toptal.com/developers/gitignore/api/web
+# Edit at https://www.toptal.com/developers/gitignore?templates=web
+
+### PDF - For the document with a copyright ###
+*.pdf
+
+### Web ###
+*.asp
+*.cer
+*.csr
+*.css
+*.htm
+*.html
+*.js
+*.jsp
+*.php
+*.rss
+*.wasm
+*.wat
+*.xhtml
+
+# End of https://www.toptal.com/developers/gitignore/api/web
