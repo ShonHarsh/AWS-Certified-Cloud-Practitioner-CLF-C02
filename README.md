@@ -46,3 +46,8 @@ RDP - Remote Desktop Protocol
 SDK - Software Development Kit  
 SFTP - Secure File Transfer Protocol  
 SSH - Secure Shell (Protocol)  
+
+
+### Resources
+
+[Roadmap - AWS](https://roadmap.sh/aws)
