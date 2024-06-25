@@ -25,6 +25,7 @@ Other (old?) [Sample Example Questions](https://d1.awsstatic.com/training-and-ce
 
 ### Terms
 AMI - Amazon Machine Images  
+ASG - Auto Scaling Group
 AWS - Amazon Web Services  
 AZ - Availability Zone  
 BYOL – Bring Your Own License  
@@ -35,6 +36,7 @@ EBS - Elastic Block Store
 EC2 - Elastic Compute Cloud or Infrastructure as a Service  
 EFS - Elastic File System  
 EFS-IA - Elastic File System Infrequent Access  
+ELB - Elastic Load Balancer
 FSx - File Systems x or any backup, Windows or Lusture  
 FTP - File Transfer Protocol  
 IAM - Identity & Access Management  
@@ -46,7 +48,6 @@ RDP - Remote Desktop Protocol
 SDK - Software Development Kit  
 SFTP - Secure File Transfer Protocol  
 SSH - Secure Shell (Protocol)  
-
 
 ### Resources
 
