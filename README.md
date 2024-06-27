@@ -24,30 +24,40 @@ Other (old?) [Sample Example Questions](https://d1.awsstatic.com/training-and-ce
 ![AWS-banner](Data/Images/AWS-Certified-Cloud-Practitioner-CLF-C02-ImageLink.png)
 
 ### Terms
+ACL - Access Control List  
 AMI - Amazon Machine Images  
-ASG - Auto Scaling Group
+ARN - Amazon Resource Name  
+ASG - Auto Scaling Group  
 AWS - Amazon Web Services  
 AZ - Availability Zone  
 BYOL – Bring Your Own License  
 CAPEX - Capital Expenses  
 CCP - Contact Control Panel  
 CLI - Command Line Interface  
+CRR - Cross Regon Replication  
+DAX - DynampDB Accelerator  
+DR - Disaster Recovery  
 EBS - Elastic Block Store  
 EC2 - Elastic Compute Cloud or Infrastructure as a Service  
 EFS - Elastic File System  
 EFS-IA - Elastic File System Infrequent Access  
-ELB - Elastic Load Balancer
+ELB - Elastic Load Balancer  
 FSx - File Systems x or any backup, Windows or Lusture  
 FTP - File Transfer Protocol  
 IAM - Identity & Access Management  
 IOPS - Input/Output Operations per Second  
+JSON - JavaScript Object Notation  
 MFA - Multi-Factor Authentication  
 NFS - Network File System  
 OPEX - Operational Expenses  
 RDP - Remote Desktop Protocol  
+RDS - Relational Database Service  
+S3 - Amazon Simple Storage Service  
 SDK - Software Development Kit  
 SFTP - Secure File Transfer Protocol  
+SRR - Same Regon Replicaiton  
 SSH - Secure Shell (Protocol)  
+VPC - Virtual Private Cloud  
 
 ### Resources
 
