@@ -36,12 +36,17 @@ CCP - Contact Control Panel
 CLI - Command Line Interface  
 CRR - Cross Regon Replication  
 DAX - DynampDB Accelerator  
+DMS - Database Migration Service
 DR - Disaster Recovery  
 EBS - Elastic Block Store  
 EC2 - Elastic Compute Cloud or Infrastructure as a Service  
+ECR - Elastic Container Registry  
+ECS - Elastic Container Service  
 EFS - Elastic File System  
 EFS-IA - Elastic File System Infrequent Access  
 ELB - Elastic Load Balancer  
+EMR - Elastic MapReduce  
+ETL - Extract, Transform, Load
 FSx - File Systems x or any backup, Windows or Lusture  
 FTP - File Transfer Protocol  
 IAM - Identity & Access Management  
@@ -49,7 +54,10 @@ IOPS - Input/Output Operations per Second
 JSON - JavaScript Object Notation  
 MFA - Multi-Factor Authentication  
 NFS - Network File System  
+OLAP - Online Analytical Processing  
 OPEX - Operational Expenses  
+OTP - Online Transaction Processing  
+QLDB - Quantum Ledger Database  
 RDP - Remote Desktop Protocol  
 RDS - Relational Database Service  
 S3 - Amazon Simple Storage Service  
