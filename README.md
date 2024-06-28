@@ -33,8 +33,9 @@ AZ - Availability Zone
 BYOL – Bring Your Own License  
 CAPEX - Capital Expenses  
 CCP - Contact Control Panel  
+CDK - Cloud Development Kit  
 CLI - Command Line Interface  
-CRR - Cross Regon Replication  
+CRR - Cross Region Replication  
 DAX - DynampDB Accelerator  
 DMS - Database Migration Service
 DR - Disaster Recovery  
@@ -50,6 +51,7 @@ ETL - Extract, Transform, Load
 FSx - File Systems x or any backup, Windows or Lusture  
 FTP - File Transfer Protocol  
 IAM - Identity & Access Management  
+IAAS - Infrastructure as a service
 IOPS - Input/Output Operations per Second  
 JSON - JavaScript Object Notation  
 MFA - Multi-Factor Authentication  
@@ -57,14 +59,16 @@ NFS - Network File System
 OLAP - Online Analytical Processing  
 OPEX - Operational Expenses  
 OTP - Online Transaction Processing  
+PAAS - Platform As A Service
 QLDB - Quantum Ledger Database  
 RDP - Remote Desktop Protocol  
 RDS - Relational Database Service  
 S3 - Amazon Simple Storage Service  
 SDK - Software Development Kit  
 SFTP - Secure File Transfer Protocol  
-SRR - Same Regon Replicaiton  
-SSH - Secure Shell (Protocol)  
+SRR - Same Region Replication  
+SSH - Secure Shell (Protocol)
+SSM - Systems Manager
 VPC - Virtual Private Cloud  
 
 ### Resources
